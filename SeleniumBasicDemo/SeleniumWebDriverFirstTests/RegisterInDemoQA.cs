@@ -20,6 +20,7 @@
         {
             //Add first comment
             //Add Second comment
+            //Master Branch in GitHub is used ONLY for production-ready code
             _driver = new ChromeDriver(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
         }
 
