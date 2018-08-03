@@ -18,6 +18,7 @@
         [SetUp]
         public void SetUp()
         {
+            //Add first comment
             _driver = new ChromeDriver(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
         }
 
