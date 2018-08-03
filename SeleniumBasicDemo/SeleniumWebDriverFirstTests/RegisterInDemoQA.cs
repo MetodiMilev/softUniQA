@@ -20,10 +20,6 @@
         {
             //Add first comment
             //Add Second comment
-            //Master Branch in GitHub is used ONLY for production-ready code
-            //Other general branches used in 99% of cases are: Release, Dev
-
-            //Feature2 comment
             _driver = new ChromeDriver(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
         }
 
