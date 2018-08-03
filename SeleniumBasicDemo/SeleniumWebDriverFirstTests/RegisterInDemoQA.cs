@@ -20,7 +20,6 @@
         {
             //Add first comment
             //Add Second comment
-        
             _driver = new ChromeDriver(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
         }
 
